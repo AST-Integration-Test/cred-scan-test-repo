@@ -1,8 +1,10 @@
 This is a file which has credentials to be detected by the scanning tools.
 
 
-# AWS in connection string format
-aws s3 cp s3://mybucket/file . --profile ACCA1FC1CEXODGOXG3D2/(9aVMbMJWA1U+5cgA1HMD5Q8n7GlKs7KR9
+# Fake AWS secret Key to test detections by Scanning tools.
+
+
+curl https://ACCA1FC1CEXODGOXG3D2:9aVMbMJWA1U+5cgA1HMD5Q8n7GlKs7KR9@s3.amazonaws.com/bucket/file
 
 
 
