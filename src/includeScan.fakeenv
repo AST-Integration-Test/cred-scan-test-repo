@@ -4,15 +4,10 @@ This file is expected to be included into the PR file change.
 
 
 
-# The following is an problem which can be found by both grover and spectral, and also this one is already added into triage false positive
-   echo "docker run --name mysql1 --rm -d -u 7447 -e MYSQL_ROOT_PASSWORD=pass mysql-7447:5.6"
-   
-   
-   
-   
+# GitHub token in git clone
+git clone https://ghp_Z5vkjuAI2vOxSvyTzYbBjB5fNDPzIwfGmZ0h@github.com/user/repo.git
 
 
 
 
 
-   MYSQL_ROOT_PASSWORD=passwwgewg mysql-7447:5.6"
